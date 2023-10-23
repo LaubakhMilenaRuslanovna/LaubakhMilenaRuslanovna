@@ -7,7 +7,4 @@
 Mail: milkit737@gmail.com
 instgram :milenalaubach
 
-<!---
-LaubakhMilenaRuslanovna/LaubakhMilenaRuslanovna is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![Uploading photo_5231411299609594817_y.jpg…]()
