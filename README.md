@@ -7,4 +7,3 @@
 Mail: milkit737@gmail.com
 instgram :milenalaubach
 
-![Uploading photo_5231411299609594817_y.jpg…]()
